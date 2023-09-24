@@ -37,7 +37,7 @@ Our database employs an Entity-Relationship model to organize troop-related data
 
 ## Overview
 
-The Girl Scout Troop Database showcases our proficiency in relational database design, encompassing various key aspects of data management:
+The Girl Scout Troop Database showcases our proficiency in relational database design, encompassing various key aspects of data management in a noSQL database: 
 
 - **Primary Keys**: These serve as unique identifiers for each record, ensuring data integrity and efficient retrieval.
 
