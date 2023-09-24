@@ -1,0 +1,87 @@
+[
+    {
+      "_id": { "$oid": "60a3b1c9a1093a6e8a92c8e1" },
+      "firstname": "James",
+      "lastname": "Holden",
+      "birthday": { "$date": "1992-06-04T00:00:00.000Z" },
+      "roles": [
+        {
+          "troopnumber": 1234,
+          "position": "Co-leader"
+        }
+      ],
+      "scouts": [
+        {
+          "scoutid": { "$oid": "60a3b1c9a1093a6e8a92c8e2" },
+          "firstname": "Naomi",
+          "lastname": "Nagata",
+          "troopnumber": 1234
+        }
+      ]
+    },
+    {
+      "_id": { "$oid": "60a3b1c9a1093a6e8a92c8e3" },
+      "firstname": "Ada",
+      "lastname": "Lovelace",
+      "birthday": { "$date": "1990-10-10T00:00:00.000Z" },
+      "roles": [
+        {
+          "troopnumber": 1234,
+          "position": "Treasurer"
+        },
+        {
+          "troopnumber": 1234,
+          "position": "Cookie Chair"
+        },
+        {
+          "troopnumber": 6789,
+          "position": "Co-leader"
+        }
+      ],
+      "scouts": [
+        {
+          "scoutid": { "$oid": "60a3b1c9a1093a6e8a92c8e4" },
+          "firstname": "Grace",
+          "lastname": "Hopper",
+          "troopnumber": 1234
+        },
+        {
+          "scoutid": { "$oid": "60a3b1c9a1093a6e8a92c8e5" },
+          "firstname": "Barbara",
+          "lastname": "Liskov",
+          "troopnumber": 6789
+        }
+      ]
+    },
+    {
+      "_id": { "$oid": "60a3b1c9a1093a6e8a92c8e6" },
+      "firstname": "Lord",
+      "lastname": "Byron",
+      "birthday": { "$date": "1965-05-13T00:00:00.000Z" },
+      "roles": [],
+      "scouts": [
+        {
+          "scoutid": { "$oid": "60a3b1c9a1093a6e8a92c8e5" },
+          "firstname": "Barbara",
+          "lastname": "Liskov",
+          "troopnumber": 6789
+        }
+      ]
+    },
+    {
+      "_id": { "$oid": "60a3b1c9a1093a6e8a92c8e7" },
+      "firstname": "Mary",
+      "lastname": "Jackson",
+      "birthday": { "$date": "1953-01-01T00:00:00.000Z" },
+      "roles": [],
+      "scouts": [
+        {
+          "scoutid": { "$oid": "60a3b1c9a1093a6e8a92c8e8" },
+          "firstname": "Mary",
+          "lastname": "Sparck Jones",
+          "troopnumber": 6789
+        }
+    ]
+  }
+ ]
+ 
