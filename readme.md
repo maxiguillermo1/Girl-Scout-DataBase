@@ -1,6 +1,6 @@
 # How The Cookie Crumbles!
 
-##  Girl Scout Troop Database in MongoDB
+##  Girl Scout Troops Database in MongoDB
 
 The Girl Scout Troop Database project was initiated with the objective of establishing a quick-solution database system that would facilitate data management for Girl Scout troops. In this repository, we have meticulously designed the database structure, including schema validation and relationships, crafted data generation processes, and developed a Python application for querying and interacting with the database. This project serves as a comprehensive pipeline, providing hands-on learning opportunities for mastering the fundamentals of both NoSQL and relational databases, while also gaining practical experience in writing complex queries to extract valuable insights from the data.
 
