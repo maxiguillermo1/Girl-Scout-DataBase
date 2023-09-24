@@ -26,18 +26,6 @@ To ensure data consistency and represent iconic Girl Scout cookies accurately, w
 
 Our database employs an Entity-Relationship model to organize troop-related data efficiently. Troops serve as primary entities, connected to multiple scouts through a one-to-many relationship. Allotments and payments are linked to scouts and troops, facilitating the management of sales and finances. This structured approach ensures data integrity and empowers Girl Scout troops in their activities.
 
-### Troop 1234
-
-- Founded on September 1, 2022, in Long Beach.
-- Comprises two scouts: Naomi Nagata and Grace Hopper.
-- Troop Allotment on January 19, 2023.
-
-### Troop 6789
-
-- Established on January 1, 2023, in Cerritos.
-- Includes two scouts: Barbara Liskov and Mary Sparck Jones.
-- Two troop allotments on January 18, 2023, and February 15, 2023.
-
 
 ### Python Application
 
