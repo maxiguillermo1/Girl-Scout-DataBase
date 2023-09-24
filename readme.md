@@ -13,7 +13,7 @@ The Girl Scout Troop Database project was initiated with the objective of establ
 
 ### Crafting Cookie Types
 
-To ensure data consistency and represent iconic Girl Scout cookies accurately, we've meticulously defined five cookie types:
+To ensure data consistency and represent iconic Girl Scout cookies accurately, we only have five cookie types:
 
 - **Thin Mints**: A classic blend of sugar, cocoa, and mint oil.
 - **Samoas**: A tropical blend of cocoa, coconut extract, sugar, and butter.
